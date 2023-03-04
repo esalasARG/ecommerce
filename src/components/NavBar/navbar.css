@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'kaoly_demoregular';
+    src: url('../fonts/kaoly_demo-regular-webfont.woff2') format('woff2'),
+         url('../fonts/kaoly_demo-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.logoFont{
+    font-family: "kaoly_demoregular";
+    color: rgb(70, 70, 70);
+}
+
+.fuentePrimaria{
+    color: rgb(70, 70, 70);
+}
+
+.navBar{
+    width: 100%;
+}
